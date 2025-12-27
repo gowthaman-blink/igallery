@@ -1,5 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:24/12/2025
+## ref no: 25017622
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
